@@ -12,9 +12,9 @@
 	<url>http://openmrs.org</url>
 
 	<scm>
-		<connection>scm:svn:http://emr.moh.gov.rw/svn/modules/dataentry/trunk/</connection>
-		<developerConnection>scm:svn:http://emr.moh.gov.rw/svn/modules/dataentry/trunk/</developerConnection>
-		<url>http://emr.moh.gov.rw/svn/modules/dataentry/trunk/</url>
+		<connection>scm:git:https://github.com/duserik/openmrs-module-dataentry/</connection>
+		<developerConnection>scm:git:https://github.com/duserik/openmrs-module-dataentry/</developerConnection>
+		<url>https://github.com/duserik/openmrs-module-dataentry/</url>
 	</scm>
 
 	<modules>
